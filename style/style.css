@@ -1,0 +1,7 @@
+/* img-fluid feature-img */
+.img-fluid feature-img{
+    /* filter:grayscale(100%); */
+}
+.img-fluid{
+    filter: grayscale(100%);
+}
