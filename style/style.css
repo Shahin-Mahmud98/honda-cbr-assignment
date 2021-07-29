@@ -1,7 +1,11 @@
 /* img-fluid feature-img */
-.img-fluid feature-img{
-    /* filter:grayscale(100%); */
-}
+/* .img-fluid feature-img{
+    filter:grayscale(100%); */
+
 .img-fluid{
     filter: grayscale(100%);
+}
+.carles{
+    height: 149px;
+    width: 149px;
 }
